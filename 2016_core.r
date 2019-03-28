@@ -1,4 +1,4 @@
-full2016coreTEST <- read_fwf(file="C:/Users/2064114/Documents/NIS/NIS_2016/nisCore2016_testset.ASC",  
+full2016core <- read_fwf(file="NIS_2016_Core.ASC",  
                              col_positions = fwf_widths(widths=c(3,2,2,2,2,11,2,2,3,2,3,2,2,2,3,2,5,7,7,7,7,7,7,7,7,7,7,7,
                                                 7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2,3,2,7,7,
                                                 7,7,7,7,7,7,7,7,7,7,7,7,7,10,5,2,2,4,2,3,3,3,3,3,3,3,3,3,
